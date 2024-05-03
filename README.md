@@ -1,2 +1,2 @@
-# Project-sederhana-C-
+# Project-sederhana-C++
 Semua project sederhana saya selama belajar C++
